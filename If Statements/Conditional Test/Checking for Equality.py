@@ -2,4 +2,4 @@
 # >The simplest conditional test is to check whether the value of a variable is equal to the value of interest.
 
 #  Ignoring case while checking for equaity-
-# >If two values with different capitalization are not considered equal
+# >If two values with different capitalization are not considered equal. But if you want to test the value of variable you can convert the value to same casing.
