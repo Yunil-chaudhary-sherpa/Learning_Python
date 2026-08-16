@@ -1,4 +1,7 @@
 # Checking that a list is not empty-
+# For checking if the list contains any items. An emptu list is treated as "False"
+# Syntax- if requested_toppings:
+
 
 requested_toppings = []
 if requested_toppings:
