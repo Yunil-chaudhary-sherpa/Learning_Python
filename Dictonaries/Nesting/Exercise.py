@@ -9,5 +9,3 @@ people = [User1,User2]
 for person in people:
   print('Name: '+person['first'].title()+' '+person['last'].title())
   print('Age: '+person['age'])
-
-# 
